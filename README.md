@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @L0G1C06
 - 👀 I’m interested in machine learning, IoT, cybersecurity and blockchain
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning/working on machine learning #ComputerVision
 - 📫 How to reach me on my gitlab (https://gitlab.com/L0G1C06)
                             linkedin ( https://www.linkedin.com/in/eduardo-weber-maldaner-679a791a9/ )
 
