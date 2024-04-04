@@ -3,6 +3,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/eduardo-weber-maldaner-679a791a9/)](https://www.linkedin.com/in/eduardo-weber-maldaner-679a791a9/)
 
+:mailbox: How to reach me: <a href="mailto:eduwmaldaner@gmail.com">eduwmaldaner@gmail.com</a>
+
 ###
 
 <div align="center">
