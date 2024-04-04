@@ -46,6 +46,13 @@
   <img width="12">
 </div>
 
+<div>
+  ## Top repositories
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l0g1c06&repo=mlJenkins&theme=github_dark)](https://github.com/L0G1C06/mlJenkins)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l0g1c06&repo=crud-app&theme=github_dark)](https://github.com/L0G1C06/crud-app)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l0g1c06&repo=gocd_study&theme=github_dark)](https://github.com/L0G1C06/gocd_study)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=l0g1c06&repo=godocker&theme=github_dark)](https://github.com/L0G1C06/godocker)
+</div>
 <br clear="both">
 
 <![Snake animation](https://raw.githubusercontent.com/l0g1c06/l0g1c06/output/github-contribution-grid-snake-dark.svg)
